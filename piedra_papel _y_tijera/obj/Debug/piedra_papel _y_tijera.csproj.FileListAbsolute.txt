@@ -1,0 +1,5 @@
+C:\Users\jjjho\RiderProjects\piedra_papel _y_tijera\piedra_papel _y_tijera\bin\Debug\piedra_papel__y_tijera.exe
+C:\Users\jjjho\RiderProjects\piedra_papel _y_tijera\piedra_papel _y_tijera\bin\Debug\piedra_papel__y_tijera.pdb
+C:\Users\jjjho\RiderProjects\piedra_papel _y_tijera\piedra_papel _y_tijera\obj\Debug\piedra_papel _y_tijera.csprojResolveAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\piedra_papel _y_tijera\piedra_papel _y_tijera\obj\Debug\piedra_papel__y_tijera.exe
+C:\Users\jjjho\RiderProjects\piedra_papel _y_tijera\piedra_papel _y_tijera\obj\Debug\piedra_papel__y_tijera.pdb
